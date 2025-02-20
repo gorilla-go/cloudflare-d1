@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "db-backup",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "8ab08574-d6c3-4d45-a6e1-b76f83085b2b",
+      "database_name": "master"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
